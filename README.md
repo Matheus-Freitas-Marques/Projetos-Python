@@ -10,3 +10,5 @@ Estarei deixando aqui os meus scripts em Python.
 04 - Sucessor e antecessor.
 
 05 - Multiplicação, divisão e raiz quadrada.
+
+06 - Média aritmética.
