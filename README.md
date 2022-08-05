@@ -12,3 +12,5 @@ Estarei deixando aqui os meus scripts em Python.
 05 - Multiplicação, divisão e raiz quadrada.
 
 06 - Média aritmética.
+
+07 - Conversão para centímetros e milímetros.
